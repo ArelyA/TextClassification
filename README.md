@@ -6,7 +6,7 @@
 
 [Click me for datasets](https://drive.google.com/drive/folders/1p3-IeJ1MMAdtjBEtOj3RMIvuYtaGkjpi)
 ## Pipeline:
-Vectorizer &#8594; SVM &#8594; Distance &#8594; OutlierRemoval
+[Vectorizer]() &#8594; [SVM]() &#8594; [Distance]() &#8594; [OutlierRemoval]()
 
 ### Vectorizers:
 * TFIDF
