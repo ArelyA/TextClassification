@@ -10,7 +10,7 @@
 
 ### Vectorizers:
 * TFIDF
-* Gaussian Naive Bayes
+* [Gaussian Naive Bayes](https://github.com/ArelyA/TextClassification/blob/main/libraries/naive_bayes_vectorizer/nb_vectorizer.py)
 * [Complement Naive Bayes](https://github.com/ArelyA/TextClassification/blob/main/libraries/naive_bayes_vectorizer/naive_bayes_vectorizer.py)
 
 ### SVM Kernels:
