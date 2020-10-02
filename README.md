@@ -34,7 +34,7 @@ Vectorizer-SVM-Distance-OutlierRemoval
 * [Train set](https://drive.google.com/file/d/1gGMMNFANv59ENBzw2e0SyvG_Ycx04xXX/view?usp=sharing)
 * [Test set](https://drive.google.com/file/d/1gGMMNFANv59ENBzw2e0SyvG_Ycx04xXX/view?usp=sharing)
 
-### [Train SVMs]()
+### [Train SVMs](https://github.com/ArelyA/TextClassification/blob/main/webkb_train_SVM.ipynb)
 
 ### [Calculate Distances](https://github.com/ArelyA/TextClassification/blob/main/webkb_distances.ipynb)
 
@@ -50,7 +50,7 @@ Vectorizer-SVM-Distance-OutlierRemoval
 * [Train set](https://drive.google.com/file/d/1kXCjpY0YD_e7dCwNU3ZdYambgf0RYErm/view?usp=sharing)
 * [Test set](https://drive.google.com/file/d/1sRj3CyoJ9KfCF3mPFQHY5_oVPRekmjHH/view?usp=sharing)
 
-### [Train SVMs]()
+### [Train SVMs](https://github.com/ArelyA/TextClassification/blob/main/r8_train_SVM.ipynb)
 
 ### [Calculate Distances](https://github.com/ArelyA/TextClassification/blob/main/r8_distances.ipynb)
 
