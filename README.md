@@ -8,10 +8,9 @@
 Vectorizer-SVM-Distance-OutlierRemoval
 
 ### Vectorizers:
-* Euclidian
-* BrayCurtis
-* Canberra
-* Manhattan
+* TFIDF
+* Gaussian Naive Bayes
+* Complement Naive Bayes
 
 ### SVM Kernels:
 * linear
