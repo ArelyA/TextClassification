@@ -6,7 +6,7 @@
 
 [Click me for datasets](https://drive.google.com/drive/folders/1p3-IeJ1MMAdtjBEtOj3RMIvuYtaGkjpi)
 ## Pipeline:
-[Vectorizer]() &#8594; [SVM]() &#8594; [Distance]() &#8594; [OutlierRemoval]()
+[Vectorizer](https://github.com/ArelyA/TextClassification/blob/main/README.md#vectorizers) &#8594; [SVM](https://github.com/ArelyA/TextClassification/blob/main/README.md#svm-kernels) &#8594; [Distance](https://github.com/ArelyA/TextClassification/blob/main/README.md#similarity-distance-measures) &#8594; [OutlierRemoval](https://github.com/ArelyA/TextClassification/blob/main/README.md#outlier-removal)
 
 ### Vectorizers:
 * TFIDF
