@@ -13,7 +13,7 @@ Vectorizer-SVM-Distance-OutlierRemoval
 * Canberra
 * Manhattan
 
-### Kernels:
+### SVM Kernels:
 * linear
 * polynomial
 * rbf
@@ -36,13 +36,15 @@ Vectorizer-SVM-Distance-OutlierRemoval
 
 ### [Train SVMs]()
 
-### [Calculate Distances]()
+### [Calculate Distances](https://github.com/ArelyA/TextClassification/blob/main/webkb_distances.ipynb)
 
-### [Evaluate SVM]()
+### [Evaluate SVM](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_SVM.ipynb)
 
-### [Evaluate Distances]()
+### [Evaluate Distances](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_distances.ipynb)
 
-### [Evaluate Distances with Outlier Removal]()
+### Evaluate Distances with Outlier Removal
+#### [IQR](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_distances_IQR.ipynb)
+#### [Z-Score](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_distances_Z.ipynb)
 
 ## R8
 * [Train set](https://drive.google.com/file/d/1kXCjpY0YD_e7dCwNU3ZdYambgf0RYErm/view?usp=sharing)
@@ -50,10 +52,12 @@ Vectorizer-SVM-Distance-OutlierRemoval
 
 ### [Train SVMs]()
 
-### [Calculate Distances]()
+### [Calculate Distances](https://github.com/ArelyA/TextClassification/blob/main/r8_distances.ipynb)
 
-### [Evaluate SVM]()
+### [Evaluate SVM](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_SVM.ipynb)
 
-### [Evaluate Distances]()
+### [Evaluate Distances](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_distances.ipynb)
 
-### [Evaluate Distances with Outlier Removal]()
+### Evaluate Distances with Outlier Removal
+#### [IQR](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_distances_IQR.ipynb)
+#### [Z-Score](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_distances_Z.ipynb)
