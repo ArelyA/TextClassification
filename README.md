@@ -1,11 +1,12 @@
 # TextClassification
+# 1900968
 [Click me for pretrained models](https://drive.google.com/drive/folders/1cePGZH7ZBIFJY6ovKi1uaTbKEKwmKbvd?usp=sharing)
 
 [Click me for precalculated distances](https://drive.google.com/drive/folders/1lE3CcYC0wcI3x6nUqgKryyMKaEo3UyB0?usp=sharing)
 
 [Click me for datasets](https://drive.google.com/drive/folders/1p3-IeJ1MMAdtjBEtOj3RMIvuYtaGkjpi)
 ## Pipeline:
-Vectorizer-SVM-Distance-OutlierRemoval
+Vectorizer &#8594; SVM &#8594; Distance &#8594; OutlierRemoval
 
 ### Vectorizers:
 * TFIDF
