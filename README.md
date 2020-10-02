@@ -11,7 +11,7 @@
 ### Vectorizers:
 * TFIDF
 * Gaussian Naive Bayes
-* Complement Naive Bayes
+* [Complement Naive Bayes](https://github.com/ArelyA/TextClassification/blob/main/libraries/naive_bayes_vectorizer/naive_bayes_vectorizer.py)
 
 ### SVM Kernels:
 * linear
