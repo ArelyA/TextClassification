@@ -43,8 +43,8 @@
 ### [Evaluate Distances](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_distances.ipynb)
 
 ### Evaluate Distances with Outlier Removal
-#### [IQR](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_distances_IQR.ipynb)
-#### [Z-Score](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_distances_Z.ipynb)
+* [IQR](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_distances_IQR.ipynb)
+* [Z-Score](https://github.com/ArelyA/TextClassification/blob/main/webkb_evaluate_distances_Z.ipynb)
 
 ## R8
 * [Train set](https://drive.google.com/file/d/1kXCjpY0YD_e7dCwNU3ZdYambgf0RYErm/view?usp=sharing)
@@ -59,5 +59,5 @@
 ### [Evaluate Distances](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_distances.ipynb)
 
 ### Evaluate Distances with Outlier Removal
-#### [IQR](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_distances_IQR.ipynb)
-#### [Z-Score](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_distances_Z.ipynb)
+* [IQR](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_distances_IQR.ipynb)
+* [Z-Score](https://github.com/ArelyA/TextClassification/blob/main/r8_evaluate_distances_Z.ipynb)
